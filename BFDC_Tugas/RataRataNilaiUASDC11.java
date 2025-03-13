@@ -1,3 +1,4 @@
+package BFDC_Tugas;
 public class RataRataNilaiUASDC11 {
     public static double hitungRataRataNilaiUAS(int[] nilaiUAS) {
         int total = 0;
